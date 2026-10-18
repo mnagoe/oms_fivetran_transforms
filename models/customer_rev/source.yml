@@ -1,6 +1,6 @@
 sources:
   - name: landing
-    database: OMS_ANALYTICS
+    database: OEANALYTICS
     schema: LANDING_OMS_CORE
 
     tables:
